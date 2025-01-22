@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing really
 - 📫 How to reach me send a msg.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm way older than I thought I would ever live to. 
+- ⚡ Fun fact: I'm way older than I thought I would ever live to and I've actually played "I smell a wumpus" on a orange screen with a Unix operating system with 5" floppies, when they  were new!
 
 <!---
 Nensea/Nensea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
